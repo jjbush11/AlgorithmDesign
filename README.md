@@ -7,3 +7,6 @@ The Graph class represents an undirected graph and includes methods for adding n
 ## Dijkstra's Alogirthm
 The Graph class represents a weighted undirected graph. The graph can be used to find the shortest paths between nodes using two different methods: a standard implementation and an implementation utilizing a Priority Queue.
 
+## Longest Common Subsequence 
+The Analyzer class implements a solution for finding the Longest Common Subsequence (LCS) of two given strings using dynamic programming.
+
